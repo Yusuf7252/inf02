@@ -1,0 +1,3 @@
+Zapytanie 1: insert into filmy(tytul,gatunki_id,rok,ocena)
+	->values('Suburbicon',5,2017,5);
+

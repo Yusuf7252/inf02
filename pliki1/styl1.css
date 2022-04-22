@@ -1,0 +1,11 @@
+body{
+    font-family:Helvetica
+}
+
+.left {
+   background-color: navy;
+   color: white;
+    width: 25%;
+    height: 700 px;
+    float: left;
+}
